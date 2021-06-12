@@ -36,3 +36,5 @@ touch src/routes/Detail.jsx
 ---
 
 ## `#1.1 GET MOVIES Query`
+
+[Apollo](https://www.apollographql.com/docs/react/get-started/)

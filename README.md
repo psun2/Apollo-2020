@@ -30,3 +30,9 @@ touch src/routes/Detail.jsx
 ---
 
 ## `#1.0 Apollo Client`
+
+[Apollo](https://www.apollographql.com/docs/react/get-started/)
+
+---
+
+## `#1.1 GET MOVIES Query`

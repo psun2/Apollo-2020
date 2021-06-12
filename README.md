@@ -37,4 +37,6 @@ touch src/routes/Detail.jsx
 
 ## `#1.1 GET MOVIES Query`
 
+api주소 오류로 인해 더이상 진행 불가 test불가 상태
+
 [Apollo](https://www.apollographql.com/docs/react/get-started/)
